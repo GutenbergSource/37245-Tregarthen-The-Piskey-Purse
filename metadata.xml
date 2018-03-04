@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The Piskey-Purse: Legends and Tales of North Cornwall</dc:title>
+      <dc:creator>Enys Tregarthen [Pseud. of Nellie Sloggett (1851–1923)]</dc:creator>
+      <dc:creator>J. Ley Pethybridge (1865–)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2011-08-29</dc:publisher>
+      <dc:date>2011-08-29</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+Prepared from scans available in the Internet Archive (copy 1).
+</dc:rights>
+      <dc:subject>Tales, English -- England Cornwall</dc:subject>
+      <dc:subject>Legends -- England Cornwall</dc:subject>
+      <dc:subject>Folklore -- England Cornwall</dc:subject>
+      <dc:description>Contains five stories: The Piskey-purse.—The magic pail.—The witch in the well.—Borrowed eyes and ears.—The little white hare.</dc:description>
+      <dc:identifier>pg:37245</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
